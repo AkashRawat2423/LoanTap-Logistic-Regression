@@ -1,1 +1,2 @@
 # LoanTap-Logistic-Regression
+•	Project Description: - Built a logistic regression model in Python to determine the creditworthiness of potential borrowers. The solution handled class imbalances using SMOTE, performed hyperparameter tuning via GridSearchCV, and evaluated the model using ROC AUC curves. This significantly aided in refining their credit underwriting process and optimized loan disbursal, balancing customer outreach with risk management.
